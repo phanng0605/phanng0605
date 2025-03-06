@@ -164,7 +164,7 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-<img alt="Night Coding" src="https://http.cat/images/404.jpg" align="right"/>
+<img alt="Night Coding" src="https://http.cat/images/404.jpg" align="right"/><img width="12" />
 <p align="center">
 <a href="https://www.linkedin.com/in/phan-nguyen-254557237/"><img src="https://img.shields.io/badge/-Phan%20Nguyen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:phannguyentrong95@gmail.com"><img src="https://img.shields.io/badge/-phannguyentrong95-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
