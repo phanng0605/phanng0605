@@ -104,7 +104,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am a Returning Algorithm Enginneer Intern at TikTok, Singapore.\
+👨‍💻 &nbsp;I am an Algorithm Enginneer Intern at TikTok, Singapore.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at Rice University, United States and Nanyang Technological University, Singapore.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Algorithmic Trading.\
