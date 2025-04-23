@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Phan Nguyen and I'm a AI/ML engineer, from Singapore!</h2>
+<h2 align="left">Hi 👋! My name is Phan Nguyen and I'm an AI/ML engineer, from Singapore!</h2>
 
 ###
 
