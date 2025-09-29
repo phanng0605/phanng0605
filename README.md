@@ -106,7 +106,7 @@
 
 👨‍💻 &nbsp;I am an Algorithm Enginneer Intern at TikTok, Singapore.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at Rice University, United States and Nanyang Technological University, Singapore.\
+🎓 &nbsp;I'm currently studying Computer Science at Nanyang Technological University, Singapore, and completed an exchange semester at Rice University, United States.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Algorithmic Trading.\
 ✍️ &nbsp;In my free time, I love reading book and playing music instruments.\
 💬 &nbsp;Feel free to reach out to me for trading advises or just for some interesting discussion.\
